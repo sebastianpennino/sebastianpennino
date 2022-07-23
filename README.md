@@ -81,6 +81,12 @@ I also have a passion for board games 🎲🃏, indie games 👾, and really enj
 
 <br />
 
+## :slot_machine: Random Stats
+
+![whoan's github stats](https://github-readme-stats.vercel.app/api?username=sebastianpennino&show_icons=true&theme=merko)
+
+<br />
+
 ## ✨ Useful Links:
 
 <div id="useful-links">
@@ -94,12 +100,6 @@ I also have a passion for board games 🎲🃏, indie games 👾, and really enj
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-
-<br />
-
-## Random Stats
-
-![whoan's github stats](https://github-readme-stats.vercel.app/api?username=sebastianpennino&show_icons=true&theme=merko)
 
 [1]: https://en.wikipedia.org/wiki/Dad_joke "Wikipedia: Dad Joke"
 [2]: https://rbgh.vercel.app/ "Root Board Game Helper"
