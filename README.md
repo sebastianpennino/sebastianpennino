@@ -81,10 +81,6 @@ I also have a passion for board games 🎲🃏, indie games 👾, and really enj
 
 <br />
 
-## :slot_machine: Random Stats
-
-![whoan's github stats](https://github-readme-stats.vercel.app/api?username=sebastianpennino&show_icons=true&theme=merko)
-
 <br />
 
 ## ✨ Useful Links:
