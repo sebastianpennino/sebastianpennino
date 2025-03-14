@@ -65,6 +65,7 @@ I also have a passion for board games 🎲🃏, indie games 👾, and really enj
 
 ## :telescope: Check out some of my projects:
 
+- [Arcs Dice Roller][14] a PWA that helps player simulate a dice roll for [ARCS][16]
 - [Root Board Game Helper][2] a PWA that helps players start a game of [Root][3]
 - [Ti4 Vanilla Game Draft][4] a SSR fullstack Web App for setting up the starting conditions for a game of [Twilight Imperium 4th Edition][5] (it's a poor's man [Milty Draft][6] for the Vanilla game).
 - Some unfinished projects:
@@ -108,5 +109,8 @@ I also have a passion for board games 🎲🃏, indie games 👾, and really enj
 [11]: https://game-bgg.vercel.app/ "Bubble Gum Girl Game"
 [12]: https://godotengine.org/ "Godot Engine - Free and open source 2D and 3D game engine"
 [13]: https://ledergames.com/collections/oath "Oath – Leder Games"
+[14]: https://arcs-dice-roller.vercel.app/
+[15]: https://www.youtube.com/watch?v=NK1o61enZHg "Engineering is the new MBA"
+[16]: https://boardgamegeek.com/boardgame/359871/arcs
 [98]: https://www.google.com/search?q=recursion "Recursion: recursion"
 [99]: "#" "Where do cows go for entertainment? To the moo-vies."
