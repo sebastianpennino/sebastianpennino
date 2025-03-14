@@ -76,8 +76,6 @@ I also have a passion for board games 🎲🃏, indie games 👾, and really enj
 ## :jigsaw: I’m currently working on:
 
 - A super small app to generate predictable pseudorandom gibberish-esque string of characters
-~~- A medium sized web app to track different states of the [OATH boardgame][13]~~
-~~- A CLI tool that will help me setup a web project based on my usual preferences (this is shelved for last)~~
 
 <br />
 
