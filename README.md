@@ -15,6 +15,7 @@ I also have a passion for board games 🎲🃏, indie games 👾, and really enj
 
 <br />
 
+
 ## :wrench: Tools
 
 <div>
@@ -52,7 +53,7 @@ I also have a passion for board games 🎲🃏, indie games 👾, and really enj
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Figma" title="Figma" width="40" height="40" />&nbsp;
 </div>
 
-#### Jurasic Era :t-rex:
+#### Used in the distant past :t-rex:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" alt="jQuery" title="jQuery. Good old days where spagetti code was the norm, and the devs were the sauce with meatballs" width="40" height="40" />&nbsp;
@@ -62,6 +63,7 @@ I also have a passion for board games 🎲🃏, indie games 👾, and really enj
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" title="Photoshop" width="40" height="40" />&nbsp;
 </div>
 <br />
+
 
 ## :telescope: Check out some of my projects:
 
@@ -76,7 +78,7 @@ I also have a passion for board games 🎲🃏, indie games 👾, and really enj
 
 ## :jigsaw: I’m currently working on:
 
-- A super small app to generate predictable pseudorandom gibberish-esque string of characters
+- Some small tools to improve my own development cycle
 
 <br />
 
