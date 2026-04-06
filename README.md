@@ -91,7 +91,7 @@ I also have a passion for board games 🎲🃏, indie games 👾, and really enj
   <a href="https://humandecode.com/">
     <img src="https://img.shields.io/badge/HumanDecode-turquoise?style=for-the-badge&logo=humandecode&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="https://twitter.com/SebastianPenn15">
+  <a href="https://twitter.com/SebastianPen15">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
