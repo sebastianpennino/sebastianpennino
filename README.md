@@ -15,7 +15,7 @@ I also have a passion for board games 🎲🃏, indie games 👾, and really enj
 
 <br />
 
-
+<!-- 
 ## :wrench: Tools
 
 <div>
@@ -43,7 +43,7 @@ I also have a passion for board games 🎲🃏, indie games 👾, and really enj
 #### Used
 
 <div>
-  <img src="https://avatars.githubusercontent.com/u/64235328?s=200&v=4" alt="Remix" title="Remix. A NextJS Killer that will not take off simply because NextJS has all the money" width="40" height="40" />&nbsp;
+  <img src="" alt="Remix" title="Remix. A NextJS Killer that will not take off simply because NextJS has all the money" width="40" height="40" />&nbsp;
   <img src="https://raw.githubusercontent.com/supabase/supabase/master/packages/common/assets/images/supabase-logo-wordmark--dark.svg" alt="Supabase" title="Supabase: the free firebase alternative" width="40" height="40" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="NextJs. Frameworks for frameworks" title="NextJs" width="40" height="40" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
@@ -62,7 +62,7 @@ I also have a passion for board games 🎲🃏, indie games 👾, and really enj
   <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" alt="WebPack" title="WebPack. The gulp on steroids that has a configuration so complex you need to invest years. Hopefully it's dying" width="40" height="40" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" title="Photoshop" width="40" height="40" />&nbsp;
 </div>
-<br />
+<br /> -->
 
 
 ## :telescope: Check out some of my projects:
