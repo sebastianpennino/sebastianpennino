@@ -3,6 +3,8 @@
 </div>
 <br />
 
+Important: This is my personal account, while working at [MiracleDevs](https://miracledevs.com/) I'm using this account [spennino-md](https://github.com/spennino-md) (company policy)
+
 Hi 👋 , I'm a Software Developer from 🇦🇷 that loves 💚 to code **meaningful interfaces** 🖥
 
 I like to work on interdisciplinary teams where I can **grow 🌱 as a developer** but also as an individual
