@@ -3,8 +3,6 @@
 </div>
 <br />
 
-Important: This is my personal account, while working at [MiracleDevs](https://miracledevs.com/) I'm using this account [spennino-md](https://github.com/spennino-md) (company policy)
-
 Hi 👋 , I'm a Software Developer from 🇦🇷 that loves 💚 to code **meaningful interfaces** 🖥
 
 I like to work on interdisciplinary teams where I can **grow 🌱 as a developer** but also as an individual
@@ -92,9 +90,11 @@ I also have a passion for board games 🎲🃏, indie games 👾, and really enj
   <a href="https://www.linkedin.com/in/spennino/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <!--
   <a href="https://miracledevs.com/">
     <img src="https://img.shields.io/badge/MiracleDevs-purple?style=for-the-badge&logo=miracledevs&logoColor=white" alt="Miracle Devs Badge"/>
   </a>
+  -->
   <a href="https://twitter.com/SebastianPen15">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
